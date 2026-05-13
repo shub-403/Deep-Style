@@ -112,6 +112,7 @@ nav{
 .heading-top-right>img{
     width: 60px;
     align-self: flex-end;
+    margin-top: -24px;
 }
 
 .explore-btn{
